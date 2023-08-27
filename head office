@@ -81,7 +81,7 @@
                         <a href="#about" class="nav-item nav-link">About</a>
                         <a href="#services" class="nav-item nav-link">Service</a>
                         <a href="#vehicles" class="nav-item nav-link">Vehicles</a>
-                        <a href="#location" class="nav-item nav-link">Locations</a>
+                        <a href="#places" class="nav-item nav-link">Locations</a>
                           
                              <a href="#contact" class="nav-item nav-link">Contact</a>
                     </div>
@@ -643,7 +643,7 @@
     <!-- Banner End -->
 
     <!-- Testimonial Start -->
-    <div class="container-fluid py-5" id="locations">
+    <div class="container-fluid py-5" id="places">
         <div class="container py-5">
             <h1 class="display-1 text-primary text-center">04</h1>
             <h1 class="display-4 text-uppercase text-center mb-5">Our Served Locations</h1>
@@ -754,10 +754,9 @@
                             <i class="fa fa-2x fa-map-marker-alt text-primary flex-shrink-0 mr-3"></i>
                             <div class="mt-n1">
                                 <h5 class="text-light">Head Office</h5>
-<!--                                 <a href="https://maps.app.goo.gl/Uws8Svx7jMrrLzTP7">
- -->
-                                <p>1st Floor Wing B, HM Tech Park, Whitefield, Bengaluru, Karnataka 560066</p>
-<!--                             </a> -->
+                            <a href="https://maps.app.goo.gl/jey9wmiJG5LnZBRn7">
+                                <p>D-7 Sunder Vihar Swej Farm, New, Sanganer Road, Jaipur, Rajasthan 302019</p>
+                          </a>
                             </div>
                         </div>
 
